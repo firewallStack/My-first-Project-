@@ -10,7 +10,7 @@ Pure HTML project to practice basic tags:
 Open `index.html` in any browser.
 
 ## Live Demo
-(Will appear after enabling GitHub Pages)
+(click here to view {https://firewallstack.github.io/My-first-Project-/})
 
 ## Author
 Turki Alhdadd — Cybersecurity student  
